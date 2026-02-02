@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+# This is my profile 🧍
+
+- 🌱 I’m currently learning how to work with github on a team
+
 <!--
 **floorian93/floorian93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
